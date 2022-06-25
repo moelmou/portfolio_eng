@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/moelmou/my_portfolio_eng/static/css/main.b97c28ce.css",
-    "main.js": "/moelmou/my_portfolio_eng/static/js/main.75a8e0c4.js",
-    "static/media/A.png": "/moelmou/my_portfolio_eng/static/media/A.04dc3cc1752de471c4d1.png",
-    "static/media/E.png": "/moelmou/my_portfolio_eng/static/media/E.a2e139a52c0b66cfa336.png",
-    "static/media/K.png": "/moelmou/my_portfolio_eng/static/media/K.fbb425a80803f65c5f5a.png",
-    "static/media/J.png": "/moelmou/my_portfolio_eng/static/media/J.e20b613e46f077e1e579.png",
-    "static/media/C.png": "/moelmou/my_portfolio_eng/static/media/C.d812d9a3f4aadd26d4cb.png",
-    "static/media/H.png": "/moelmou/my_portfolio_eng/static/media/H.042dc0192c4193c9cdd8.png",
-    "static/media/F.png": "/moelmou/my_portfolio_eng/static/media/F.cf84d78c2c77b982a1e8.png",
-    "static/media/B.png": "/moelmou/my_portfolio_eng/static/media/B.4b908a48cd3ca4c531e1.png",
-    "static/media/ME2.png": "/moelmou/my_portfolio_eng/static/media/ME2.afb518cb150d3a6d9f83.png",
-    "static/media/D.png": "/moelmou/my_portfolio_eng/static/media/D.c85ae8ed8cf18a24cc06.png",
-    "static/media/ME.png": "/moelmou/my_portfolio_eng/static/media/ME.ebeab0fc6d837108c592.png",
-    "static/media/G.png": "/moelmou/my_portfolio_eng/static/media/G.0544a3264a8f99e1f4be.png",
-    "static/media/CV.pdf": "/moelmou/my_portfolio_eng/static/media/CV.8250a6c9651576423624.pdf",
-    "static/media/I.jpg": "/moelmou/my_portfolio_eng/static/media/I.4ad9793019146558092b.jpg",
-    "static/media/AV3.jpg": "/moelmou/my_portfolio_eng/static/media/AV3.d9faffe666c628de5fd2.jpg",
-    "static/media/O.png": "/moelmou/my_portfolio_eng/static/media/O.296519b5e2e8fbdf0cf8.png",
-    "static/media/AV1.jpg": "/moelmou/my_portfolio_eng/static/media/AV1.8c0400bb2de7a31e3f35.jpg",
-    "index.html": "/moelmou/my_portfolio_eng/index.html",
-    "main.b97c28ce.css.map": "/moelmou/my_portfolio_eng/static/css/main.b97c28ce.css.map",
-    "main.75a8e0c4.js.map": "/moelmou/my_portfolio_eng/static/js/main.75a8e0c4.js.map"
+    "main.css": "/moelmou/portfolio_eng/static/css/main.b97c28ce.css",
+    "main.js": "/moelmou/portfolio_eng/static/js/main.c4bd6bef.js",
+    "static/media/A.png": "/moelmou/portfolio_eng/static/media/A.04dc3cc1752de471c4d1.png",
+    "static/media/E.png": "/moelmou/portfolio_eng/static/media/E.a2e139a52c0b66cfa336.png",
+    "static/media/K.png": "/moelmou/portfolio_eng/static/media/K.fbb425a80803f65c5f5a.png",
+    "static/media/J.png": "/moelmou/portfolio_eng/static/media/J.e20b613e46f077e1e579.png",
+    "static/media/C.png": "/moelmou/portfolio_eng/static/media/C.d812d9a3f4aadd26d4cb.png",
+    "static/media/H.png": "/moelmou/portfolio_eng/static/media/H.042dc0192c4193c9cdd8.png",
+    "static/media/F.png": "/moelmou/portfolio_eng/static/media/F.cf84d78c2c77b982a1e8.png",
+    "static/media/B.png": "/moelmou/portfolio_eng/static/media/B.4b908a48cd3ca4c531e1.png",
+    "static/media/ME2.png": "/moelmou/portfolio_eng/static/media/ME2.afb518cb150d3a6d9f83.png",
+    "static/media/D.png": "/moelmou/portfolio_eng/static/media/D.c85ae8ed8cf18a24cc06.png",
+    "static/media/ME.png": "/moelmou/portfolio_eng/static/media/ME.ebeab0fc6d837108c592.png",
+    "static/media/G.png": "/moelmou/portfolio_eng/static/media/G.0544a3264a8f99e1f4be.png",
+    "static/media/CV.pdf": "/moelmou/portfolio_eng/static/media/CV.8250a6c9651576423624.pdf",
+    "static/media/I.jpg": "/moelmou/portfolio_eng/static/media/I.4ad9793019146558092b.jpg",
+    "static/media/AV3.jpg": "/moelmou/portfolio_eng/static/media/AV3.d9faffe666c628de5fd2.jpg",
+    "static/media/O.png": "/moelmou/portfolio_eng/static/media/O.296519b5e2e8fbdf0cf8.png",
+    "static/media/AV1.jpg": "/moelmou/portfolio_eng/static/media/AV1.8c0400bb2de7a31e3f35.jpg",
+    "index.html": "/moelmou/portfolio_eng/index.html",
+    "main.b97c28ce.css.map": "/moelmou/portfolio_eng/static/css/main.b97c28ce.css.map",
+    "main.c4bd6bef.js.map": "/moelmou/portfolio_eng/static/js/main.c4bd6bef.js.map"
   },
   "entrypoints": [
     "static/css/main.b97c28ce.css",
-    "static/js/main.75a8e0c4.js"
+    "static/js/main.c4bd6bef.js"
   ]
 }
