@@ -146,7 +146,7 @@ const Hardskills = () => {
             <article className='hardskills__details'>
               <BsPatchCheckFill className='hardskills__details-icon'/>
               <div>
-                <h4>SQL</h4>
+                <h4>SQLSERVER</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
