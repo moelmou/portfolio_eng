@@ -18,6 +18,14 @@
     border: 1px solid transparent;
     transition: var(--transition);
 }
+legend {
+    text-align: left;
+    font-size: 22px;
+    font-weight: 700; 
+    color:var(--color-white); ;
+    word-spacing: 1px; 
+    letter-spacing:2px;
+  }
 .contact__option:hover{
     background: transparent;
     border-color: var(--color-primary-variant);
