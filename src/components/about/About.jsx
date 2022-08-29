@@ -36,10 +36,10 @@ const about = () => {
           </article>
         </div>
         <p>
-        I am currently a software engineering student at the National School of Applied Sciences in Khouribga, Morocco.
+        I am currently a Salesforce intern in <a href='http://da-technologies.ma/'>D&A Technologies</a> and a software engineering student at the National School of Applied Sciences in Khouribga, Morocco.
         <br />
-I am independent and equipped with the necessary skills that allow me to be productive while working in a team.<br/>
- In addition to my collaborative spirit, I give enough importance to self-learning in my journey to build a career based on a fairly rigid base.
+            I believe I have the necessary skills that allow me to be productive while working in a team.<br/>
+            And in addition to my collaborative spirit, I give enough importance to self-learning in my journeys so as to build a well stuctured career which is based on a fairly rigid base.
         </p>
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>

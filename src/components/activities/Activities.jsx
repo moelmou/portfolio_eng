@@ -13,6 +13,7 @@ import IMG8 from '../../assets/O.png'
 import IMG9 from '../../assets/H.png'
 import IMG11 from '../../assets/K.png'
 import IMG12 from '../../assets/J.png'
+import IMG13 from '../../assets/Imgfilt.PNG'
 
 
 const data=[
@@ -53,6 +54,15 @@ const data=[
   alt:'Java program that partition a graph to two sets using TABU-SEARCH algorithm'
 },
 {
+  id:13,
+  image:IMG13,
+  title:'Image Filtering Microservice using NodeJs,Express & AWS',
+  github:'https://github.com/moelmou/udagram_ElMouki_Aws',
+  LearnMore:'https://github.com/moelmou/udagram_ElMouki_Aws',
+  name:'Github',
+  alt:'It is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.'
+},
+{
   id:10,
   image:IMG10,
   title:'Datty is a coffee alternative made out of date seeds',
@@ -62,13 +72,13 @@ const data=[
   alt:'Co-associate in a small business called DattyCoffee since 2021, an alternative drink to coffee that is made out of date seeds'
 },
 {
-  id:5,
-  image:IMG5,
-  title:'TEDxENSAKhouribga21 is a univeristy TED-like gathering',
-  github:'https://www.ted.com/tedx/events/37570',
-  LearnMore:' https://lamarocaine.info/238699.html',
-  name:'Website',
-  alt:'Lead the organizing team of TEDxENSAKhouribga 2021 in ENSA Khouribga'
+  id:8,
+  image:IMG8,
+  title:'Challenge for young students to solve most pressing issues through social entrepreneurship',
+  github:'https://www.facebook.com/HultPrizeENSAK/',
+  LearnMore:'https://www.facebook.com/HultPrizeENSAK/',
+  name:'Facebook',
+  alt:"Been an event manager in ENSA Khouribga's edition of HultPrize 2020 that's subject was Hunger and food challenges"
 },
 {
   id:6,
@@ -89,13 +99,13 @@ const data=[
   alt:'Took part in the sponsorship and media management team of the 10th edition of OpenSourceDays10.0'
 },
 {
-  id:8,
-  image:IMG8,
-  title:'Challenge for young students to solve most pressing issues through social entrepreneurship',
-  github:'https://www.facebook.com/HultPrizeENSAK/',
-  LearnMore:'https://www.facebook.com/HultPrizeENSAK/',
-  name:'Facebook',
-  alt:"Been an event manager in ENSA Khouribga's edition of HultPrize 2020 that's subject was Hunger and food challenges"
+  id:5,
+  image:IMG5,
+  title:'TEDxENSAKhouribga21 is a univeristy TED-like gathering event',
+  github:'https://www.ted.com/tedx/events/37570',
+  LearnMore:' https://lamarocaine.info/238699.html',
+  name:'Website',
+  alt:'Lead the organizing team of TEDxENSAKhouribga 2021 in ENSA Khouribga'
 },
 {
   id:9,
