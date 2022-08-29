@@ -51,7 +51,7 @@ const Softskills = () => {
             </li>
             <li>
                <div><BiCheck className='softskills__list-icon'/></div>
-              <p>Member of ENSACTUS ENSA Khouribga Club</p>
+              <p>Member of ENACTUS ENSA Khouribga Club</p>
             </li>
             <li>
                <div><BiCheck className='softskills__list-icon'/></div>
