@@ -36,7 +36,7 @@ const data=[
   avatar:3,
   image:AVTR1,
   name:'ECHCHAD EL Mehdi',
-  job:'Full Stack engineer at ABALSIA',
+  job:'MuleSoft Developer at DELOITTE',
   review:'We have been working together since 2017 on several IT and non-IT projects, and we were always very pleased with the final product',
 }
 ]
