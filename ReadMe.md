@@ -1,3 +1,3 @@
-# This is my own profile
+# This is my own portfolio
 
 ### visit http://www.mohamedelmouki.me
