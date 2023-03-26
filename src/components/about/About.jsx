@@ -26,8 +26,8 @@ const about = () => {
           </article> 
           <article className="about__card">
             <FiAward className='about__icon'/>
-            <h5>Graduate</h5>
-            <small>ACCESS Micro scholarship</small>
+            <h5>Certified</h5>
+            <small>Salesforce Platform Developer I</small>
           </article> 
           <article className="about__card">
             <FiAward className='about__icon'/>
