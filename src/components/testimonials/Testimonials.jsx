@@ -29,7 +29,7 @@ const data=[
   avatar:2,
   image:AVTR2,
   name:'AROUINI Youssef',
-  job:'Robotic Process Automation Engineer at AFDTech',
+  job:'Robotic Process Automation Engineer at Capgemini Engineering',
   review:"A true teamplayer, Creative and always right on schedule, working with him is really amusing ",
 }, 
 {
